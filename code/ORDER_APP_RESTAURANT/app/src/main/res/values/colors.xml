@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#8b2c0a</color>
+    <color name="cream">#d2c395</color>
+    <color name="softCream">#b3e7e7e4</color>
+    <color name="ivory">#B3f3f3f3</color>
+    <color name="green">#cb298703</color>
+    <color name="softGreen">#505bbf32</color>
+    <color name="background_footer">#90000000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

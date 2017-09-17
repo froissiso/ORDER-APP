@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ORDER_APP_CLIENT</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="titulo_actividad_detalle">Detailed view</string>
+
+    <string name="name_transition_image">shared_image</string>
+    <string name="title_activity_places_activity_detail">PlacesActivityDetail</string>
+    <string name="title_activity_menu">This is the menu</string>
+    <string name="section_format"> section: %1$d</string>
+</resources>
